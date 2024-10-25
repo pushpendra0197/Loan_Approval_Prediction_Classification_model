@@ -1,4 +1,4 @@
-I have made Loan_Approval_prediction model after checking with all classification supervised machine learning algorithm and chose best r2_score given algorithm.and deployed over Modelbit deployment platform.
+I have made Loan_Approval_prediction model after checking with all classification supervised machine learning algorithm and chose best accuracy given algorithm.and deployed over Modelbit deployment platform.
 
 Model is accessible from anywhere.
 Kindly install modelbit in your IDE(jupyter,colab) by using (pip install modelbit) import modelbit module.
